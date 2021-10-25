@@ -1,0 +1,4 @@
+{
+  "entryPoint": "./api-worker.mjs",
+  "baseURL": "/api"
+}
